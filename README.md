@@ -10,9 +10,9 @@
 
 - Participei da python Brasil 14, em Nata/RN no ano de 2018, foi uma experiência massa!!! e foi a partir desse evento que eu amadureci a ideia de ser desenvolvedora, pq eu queria muito ter essa representação da mulher negra no mundo da programação, e decidi ser uma.
 
--🎓 Atualmente participo do embarque digital, projeto ofertado pelo porto digital juntamente com a prefeitura do Recife 👩🏾‍ 💻 :)
+- 🎓Atualmente participo do embarque digital, projeto ofertado pelo porto digital juntamente com a prefeitura do Recife 👩🏾‍ 💻 :)
 
--💡Basicamente fazendo uma revisão geral do mundo da programação, envolvendo tanto o back-end como o front-end ♻️
+- 💡Basicamente fazendo uma revisão geral do mundo da programação, envolvendo tanto o back-end como o front-end ♻️
 
 - Entusiasta em Cybersecurity.😝👾
 
